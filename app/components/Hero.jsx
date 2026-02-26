@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="flex flex-col items-center justify-center text-center py-32 px-6">
       
-      <h1 className="text-3xl sm:text-2xl md:text-4xl lg:text-6xl font-bold mb-6">
+      <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-6">
         Claiton Dos Santos Silva
       </h1>
 
