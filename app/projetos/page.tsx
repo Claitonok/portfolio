@@ -43,7 +43,36 @@ const projects = [
       "Aplicação de hospedagem estilo Airbnb, com backend em Node.js e frontend em React, utilizando Express para a API e MongoDB para o banco de dados.",
     tech: ["React", "Node.js", "Express", "API de dados"],
     github: "https://github.com/Claitonok/airbnd",
+  },
+  {
+    title: "Projeto loja de carros no CRUD com login!",
+    description:
+      "Sistema de gerenciamento de loja de carros com login e autenticação, desenvolvido em Java Dynamic Web Project com Spring Boot e MySQL.",
+    tech: ["Java", "MySQL","CSS", "JSP","Servlets"],
+    github: "https://github.com/Claitonok/Loja_carros",
+  },
+  {
+    title: "API Restfull para gerenciamento de dados de usuários",
+    description:
+      "API REST desenvolvida com Spring Boot para gerenciamento de dados de usuários, incluindo autenticação e autorização.",
+    tech: ["Spring Boot", "REST API", "Docker", "PostgreSQL", "swagger"],
+    github: "https://github.com/Claitonok/API-RestFull",
+  },
+  {
+    title: "API de Autenticação de Usuários OAuth2/JWT",
+    description:
+      "API de autenticação de usuários utilizando Spring Boot, OAuth2 e JWT para segurança e gerenciamento de sessões.",
+    tech: ["Spring Boot", "OAuth2", "JWT", "Docker", "PostgreSQL"],
+    github: "https://github.com/Claitonok/usuario1autentication",
+  },
+  {
+    title: "Imovel Guide",
+    description:
+      "Aplicação web para gerenciamento de imóveis, com backend em PHP e frontend em CSS e MySql para o banco de dados.",
+    tech: ["PHP", "CSS", "MySql"],
+    github: "https://github.com/Claitonok/Imovel-Guide",
   }
+  
 ];
 
 export default function Projetos() {
