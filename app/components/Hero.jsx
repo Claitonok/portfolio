@@ -15,8 +15,7 @@ export default function Hero() {
           arquitetura REST, MySQL e containerização com Docker.
            Foco em aplicações escaláveis e código limpo.
       </p>
-        <p className="text-slate-400 mb-6 mt-0">Experiência prática com sistemas de hospedagem
-        e integração de pagamentos.</p>
+        <p className="text-slate-400 mb-6 mt-0">Experiência prática com sistemas e integração.</p>
 
       <div className="flex gap-4">
         <a
