@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portifolio Next App",
-  description: "Portifolio pessoal desenvolvido com Next.js, React e Tailwind CSS, apresentando projetos e habilidades de desenvolvimento web.",
+  title: "Claiton Dos Santos Silva | Desenvolvedor Back-End Java",
+  description: "Desenvolvedor Back-End Java especializado em Spring Boot, APIs REST, Docker e integrações de pagamento.",
 };
 
 export default function RootLayout({

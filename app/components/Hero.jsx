@@ -11,8 +11,9 @@ export default function Hero() {
       </h2>
 
       <p className="max-w-2xl text-slate-400 mb-8">
-        Desenvolvedor focado em aplicações Java com Spring Boot,
-        integração de APIs REST e deploy com Docker.
+         Experiência prática com Spring Boot, integração de pagamentos,
+          arquitetura REST, MySQL e containerização com Docker.
+           Foco em aplicações escaláveis e código limpo.
       </p>
         <p className="text-slate-400 mb-6 mt-0">Experiência prática com sistemas de hospedagem
         e integração de pagamentos.</p>
@@ -20,7 +21,8 @@ export default function Hero() {
       <div className="flex gap-4">
         <a
           href="/projetos"
-          className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-500 transition"
+          className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-500 
+          transition shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40"
         >
           Ver Projetos
         </a>
@@ -28,7 +30,8 @@ export default function Hero() {
         <a
           href="https://github.com/Claitonok"
           target="_blank"
-          className="border border-blue-600 px-6 py-3 rounded-xl hover:bg-blue-600 transition"
+          className="bg-blue-600 px-6 py-3 rounded-xl hover:bg-blue-500
+           transition shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40"
         >
           GitHub
         </a>
@@ -36,7 +39,8 @@ export default function Hero() {
 
       <div className="flex gap-4 py-6">
          <a href="https://wa.me/+5513997290816" target="_blank" 
-          className="border border-blue-600 px-10 py-4 rounded-xl hover:bg-blue-600 transition"
+          className="bg-blue-600 px-10 py-3 rounded-xl hover:bg-blue-500
+           transition shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40"
           >
             Fale conosco no WhatsApp
         </a>
