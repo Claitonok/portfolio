@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Olá, eu sou Claiton Dos Santos Silva
 
-## Getting Started
+💻 Desenvolvedor Back-End Java | Spring Boot | APIs REST | Docker  
+🚀 Foco em aplicações escaláveis, integração de sistemas e boas práticas de arquitetura.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 Sobre Mim
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sou desenvolvedor com foco em aplicações Java utilizando Spring Boot, integração de APIs REST e containerização com Docker.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Tenho experiência prática com:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Sistemas Web Java (Dynamic Web Project)
+- Integração de pagamentos (PIX e Cartão)
+- Criação de APIs RESTful
+- Deploy com Docker
+- Banco de dados MySQL
+- Estruturação de projetos escaláveis
 
-## Learn More
+Meu objetivo é atuar como Desenvolvedor Back-End ou Full Stack, contribuindo com soluções robustas e performáticas.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Portfólio Online
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 https://portfolio-claiton-projects.vercel.app  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Stack Tecnológica
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+- MySQL
+
+### Frontend
+- React
+- Next.js
+- JavaScript / TypeScript
+- Tailwind CSS
+
+### DevOps & Ferramentas
+- Docker
+- Git
+- GitHub
+- Vercel
+- Tomcat
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🏨 Sistema de Hospedagem
+Sistema completo desenvolvido em Java com:
+
+- API Spring Boot
+- Integração com Mercado Pago (PIX e Cartão)
+- Banco MySQL
+- Deploy com Docker
+
+🔗 https://github.com/Claitonok/Projeto-locacao-casa
+
+---
+
+## 📊 Estatísticas
+
+![Claiton GitHub Stats](https://github-readme-stats.vercel.app/api?username=Claitonok&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claitonok&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 Entre em contato pelo meu portfólio  
+🔗 https://portfolio-claiton-projects.vercel.app  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades como Desenvolvedor Back-End Java ou Full Stack, contribuindo com:
+
+- APIs bem estruturadas
+- Integrações seguras
+- Código limpo e organizado
+- Aplicações escaláveis
