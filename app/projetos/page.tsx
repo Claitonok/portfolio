@@ -52,7 +52,7 @@ export default function Projetos() {
       <Navbar />
 
       <section className="px-6 py-20 max-w-6xl mx-auto">
-        <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+        <h2 className="text-3xl font-bold text-center md:text-4xl mb-16 bg-linear-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
           Projetos em Destaque
         </h2>
 
