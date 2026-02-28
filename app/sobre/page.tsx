@@ -5,14 +5,14 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 
 const skills = [
-  { name: "Java", level: 90 },
-  { name: "Spring Boot", level: 85 },
-  { name: "REST APIs", level: 85 },
-  { name: "Docker", level: 75 },
+  { name: "Java", level: 100 },
+  { name: "Spring Boot", level: 100 },
+  { name: "REST APIs", level: 100 },
+  { name: "Docker", level: 100 },
   { name: "React", level: 80 },
   { name: "Next.js", level: 75 },
-  { name: "MySQL", level: 80 },
-  { name: "JWT / OAuth2", level: 70 },
+  { name: "MySQL", level: 100 },
+  { name: "JWT / OAuth2", level: 100 },
 ];
 
 export default function Sobre() {
@@ -49,7 +49,7 @@ export default function Sobre() {
           >
             <div className="relative w-72 h-72 rounded-3xl overflow-hidden border border-cyan-500/20 shadow-2xl shadow-cyan-500/20">
               <Image
-                src="/IMG_1578.png"
+                src="/minha-foto.png"
                 alt="Claiton"
                 fill
                 className="object-cover"

@@ -52,6 +52,11 @@ export default function Hero() {
             >
               About Me
             </a>
+             <a href="https://wa.me/+5513997290816" target="_blank" 
+          className="px-3 py-3 border border-slate-700 rounded-xl hover:bg-slate-800 transition"
+          >
+            Fale conosco no WhatsApp
+        </a>
 
           </div>
         </motion.div>
