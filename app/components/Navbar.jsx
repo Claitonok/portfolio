@@ -37,6 +37,9 @@ export function NavbarHome() {
         >
           GitHub
         </a>
+        <Link href="/sobre" className="hover:text-blue-400">
+            Sobre
+        </Link>
       </div>
     </nav>
   );
