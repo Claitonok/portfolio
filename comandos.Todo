@@ -1,0 +1,24 @@
+
+Todo List:
+
+Comando do React:
+
+    ☐ npx create-next-app@latest portfolio - Criar um novo projeto Next.js chamado "portfolio"
+
+    ☐ cd portfolio - Navegar para o diretório do projeto
+
+    ☐ npm run dev - Iniciar o servidor de desenvolvimento
+
+    ☐ npm install framer-motion - Instalar a biblioteca de animação Framer Motion
+    
+    ☐ Criar componentes para as seções do portfólio (Home, Sobre, Projetos, Contato)
+
+    ☐ Implementar animações usando Framer Motion para transições suaves entre as seções
+
+    ☐ Adicionar conteúdo relevante para cada seção (texto, imagens, links para projetos)
+
+    ☐ Personalizar o design usando CSS ou uma biblioteca de estilos (como Tailwind CSS)
+
+    ☐ Testar o site em diferentes dispositivos para garantir responsividade
+
+    ☐ Publicar o portfólio online usando Vercel ou Netlify

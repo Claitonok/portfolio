@@ -6,13 +6,19 @@ import { motion } from "framer-motion";
 
 const skills = [
   { name: "Java", level: 100 },
+  {name: "Spring Framework", level: 100 },
   { name: "Spring Boot", level: 100 },
   { name: "REST APIs", level: 100 },
+  { name: "JWT / OAuth2", level: 100 },
   { name: "Docker", level: 100 },
   { name: "React", level: 80 },
-  { name: "Next.js", level: 75 },
+  {name: "Node.js", level: 100 },
+  { name: "Next.js", level: 80 },
+  {name: "JavaScript", level: 100 },
   { name: "MySQL", level: 100 },
-  { name: "JWT / OAuth2", level: 100 },
+  {name: "PostgreSQL", level: 100 },
+  {name: "PHP", level: 100 },
+  {name: "Laravel", level: 100 },
 ];
 
 export default function Sobre() {
