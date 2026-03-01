@@ -1,4 +1,5 @@
 "use client";
+import { IconBrandWhatsapp, IconBrandWhatsappFilled } from "@tabler/icons-react";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -54,8 +55,10 @@ export default function Hero() {
             </a>
              <a href="https://wa.me/+5513997290816" target="_blank" 
           className="px-3 py-3 border border-slate-700 rounded-xl hover:bg-slate-800 transition"
-          >
-            Fale conosco no WhatsApp
+          > 
+          {/* IconBrandWhatsapp */}
+            WhatsApp <IconBrandWhatsappFilled size={24} className="inline-block ml-2" />
+            {/* IconBrandWhatsappFilled */}
         </a>
 
           </div>

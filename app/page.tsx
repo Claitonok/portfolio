@@ -1,4 +1,4 @@
-import Navbar, { NavbarHome } from "./components/Navbar";
+import { NavbarHome } from "./components/Navbar";
 import Hero from "./components/Hero";
 
 export default function Home() {
