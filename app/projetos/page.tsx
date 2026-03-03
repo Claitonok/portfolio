@@ -77,7 +77,7 @@ const projects = [
 
 export default function Projetos() {
   return (
-    <main className="bg-slate-950 text-white min-h-screen">
+    <main className="bg-slate-950 text-white min-h-screen pt-16">
       <Navbar />
 
       <section className="px-6 py-20 max-w-6xl mx-auto">
