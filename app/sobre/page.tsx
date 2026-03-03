@@ -23,7 +23,7 @@ const skills = [
 
 export default function Sobre() {
   return (
-    <main className="min-h-screen bg-linear-to-b from-black via-slate-950 to-black text-white">
+    <main className="pt-16 min-h-screen bg-linear-to-b from-black via-slate-950 to-black text-white">
       <Navbar />
 
       <section className="max-w-6xl mx-auto px-6 py-20">
