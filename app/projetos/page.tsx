@@ -71,6 +71,20 @@ const projects = [
       "Aplicação web para gerenciamento de imóveis, com backend em PHP e frontend em CSS e MySql para o banco de dados.",
     tech: ["PHP", "CSS", "MySql"],
     github: "https://github.com/Claitonok/Imovel-Guide",
+  },
+    {
+    title: "Project Api - Nexora Systems",
+    description:
+      "API RESTful para gerenciamento de dados de usuários, desenvolvida com Spring Boot, utilizando OAuth2 e JWT para autenticação e autorização, e PostgreSQL como banco de dados.",
+    tech: ["Spring Boot", "OAuth2", "JWT", "Docker", "PostgreSQL"],
+    github: "https://github.com/Claitonok/monitor",
+  },
+  {
+    title: "Project Nexora Systems - monitor-spring",
+    description:
+      "Sistema de monitoramento de recursos, desenvolvido com Spring Boot, utilizando OAuth2 e JWT para autenticação e autorização, e PostgreSQL como banco de dados.",
+    tech: ["Spring Boot", "OAuth2", "JWT", "Docker", "PostgreSQL"],
+    github: "https://github.com/Claitonok/monitor-spring",
   }
   
 ];

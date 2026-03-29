@@ -55,7 +55,7 @@ export default function Sobre() {
           >
             <div className="relative w-72 h-72 rounded-3xl overflow-hidden border border-cyan-500/20 shadow-2xl shadow-cyan-500/20">
               <Image
-                src="/minha-foto.png"
+                src="/minha-foto.jpg"
                 alt="Claiton"
                 fill
                 className="object-cover"
