@@ -85,7 +85,26 @@ const projects = [
       "Sistema de monitoramento de recursos, desenvolvido com Spring Boot, utilizando OAuth2 e JWT para autenticação e autorização, e PostgreSQL como banco de dados.",
     tech: ["Spring Boot", "OAuth2", "JWT", "Docker", "PostgreSQL"],
     github: "https://github.com/Claitonok/monitor-spring",
+  },
+  {
+    title:"Barber Manager - Sistema de Gestão de Barbearia",
+    description:"Sistema Full-Stack de agendamentos e gestão para barbearias, focado em alta performance, segurança e experiência do usuário. O projeto utiliza uma arquitetura moderna com Front-end em Next.js e um ecossistema Back-end robusto em Spring Boot.",
+    tech:["Next.js 14+", "Tailwind CSS", "Middleware", "Sonner", "TypeScript"],
+    github:"https://github.com/Claitonok/barbearia-system"
+  },
+  {
+    title:"API - System Barbearia",
+    description:"API robusta desenvolvida para gestão de barbearias, focada em segurança, escalabilidade e comunicação assíncrona. O sistema gerencia agendamentos e autenticação de usuários, servindo como backend para aplicações web modernas.",
+    tech:["Java 21 & Spring Boot", "Spring Data JPA", "Spring Security & JWT", "RabbitMQ", "Docker", "JUnit", "Lombok"],
+    github:"https://github.com/Claitonok/system-barbearia"
   }
+  
+  // {
+  //   title:"",
+  //   description:"",
+  //   tech:[""],
+  //   github:""
+  // }
   
 ];
 
