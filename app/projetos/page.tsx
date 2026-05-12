@@ -98,14 +98,12 @@ const projects = [
     tech:["Java 21 & Spring Boot", "Spring Data JPA", "Spring Security & JWT", "RabbitMQ", "Docker", "JUnit", "Lombok"],
     github:"https://github.com/Claitonok/system-barbearia"
   }
-  
   // {
   //   title:"",
   //   description:"",
   //   tech:[""],
   //   github:""
   // }
-  
 ];
 
 export default function Projetos() {
