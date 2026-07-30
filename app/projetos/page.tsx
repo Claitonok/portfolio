@@ -1,3 +1,4 @@
+import { title } from "process";
 import Navbar from "../components/Navbar";
 import Link from "next/link";
 
@@ -97,6 +98,12 @@ const projects = [
     description:"API robusta desenvolvida para gestão de barbearias, focada em segurança, escalabilidade e comunicação assíncrona. O sistema gerencia agendamentos e autenticação de usuários, servindo como backend para aplicações web modernas.",
     tech:["Java 21 & Spring Boot", "Spring Data JPA", "Spring Security & JWT", "RabbitMQ", "Docker", "JUnit", "Lombok"],
     github:"https://github.com/Claitonok/system-barbearia"
+  },
+  {
+    title:"Finder consultoria inteligente",
+    description:"Aplicação web de consultoria inteligente, projetada para fornecer insights e recomendações personalizadas. O projeto utiliza Next.js para o front-end, garantindo uma experiência de usuário fluida e responsiva.",
+    tech:["Next.js 14+", "Tailwind CSS", "TypeScript", "React Query", "Sonner"],
+    github:"https://github.com/Claitonok/proj-consulta"
   }
   // {
   //   title:"",
